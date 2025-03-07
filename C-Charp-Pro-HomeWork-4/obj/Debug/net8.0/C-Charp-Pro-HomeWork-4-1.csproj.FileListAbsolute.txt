@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\bin\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.exe
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\bin\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.deps.json
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\bin\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.runtimeconfig.json
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\bin\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.dll
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\bin\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.pdb
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.sourcelink.json
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.dll
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\refint\C-Charp-Pro-HomeWork-4-1.dll
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.pdb
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\C-Charp-Pro-HomeWork-4-1.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\C-Charp-Pro-HomeWork-4\C-Charp-Pro-HomeWork-4\obj\Debug\net8.0\ref\C-Charp-Pro-HomeWork-4-1.dll
